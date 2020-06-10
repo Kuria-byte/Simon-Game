@@ -3,6 +3,7 @@
 ![Game start](https://user-images.githubusercontent.com/61579772/84225663-5c07d680-ab12-11ea-994f-0220ffcba658.jpg)
 
 > Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison. It has disc shape, on one of its faces you can see four quadrants, each with a ```color: green, red , Blue and yellow``` in its original version. 
+> Hosted @ https://kuria-byte.github.io/Simon-Game/
 
 ```
 let didn't-understand=null ;
