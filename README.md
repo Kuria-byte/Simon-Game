@@ -7,10 +7,8 @@
 - > Hosted @ https://kuria-byte.github.io/Simon-Game/
 
 ```
-let didn't-understand=null ;
-
 if(didn't-understand){
-      click(https://www.youtube.com/watch?v=1Yqj76Q4jJ4)
+      watch(https://www.youtube.com/watch?v=1Yqj76Q4jJ4)
 }else (continue) 
 
 ```
